@@ -1,0 +1,6 @@
+name: "Code Todo"
+description: "Scan Code"
+
+runs:
+  using: "node12"
+  main: "index.js"
